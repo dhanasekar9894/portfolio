@@ -1,5 +1,5 @@
 ---
-title: "Car Sales Insight Dashboard using PowerBI"
+title: " Predictive-Maintainance Forecasting (RUL)"
 excerpt: "Predicting the remaining usefull life of the machine"
 collection: portfolio
 ---
