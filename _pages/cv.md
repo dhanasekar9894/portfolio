@@ -11,54 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MBA in Data science and Analytics, Jain University, 2024
+  * Coursework: Advanced Machine Learning, Programming Machine Learning Applications, Recommender Systems, Neural Networks & Deep Learning, Time Series Analysis, Advanced Data Analysis, Data Analysis and Regression (Linear/Logistic), Databases for Analytics (Querying), Data Visualization
+   
+*  BCA in Computer Science and Applicaitons,in Madras University, 2021
+  * Coursework: SQL, Python, JAVA, R
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* July 2021 - Present: Senior system associate in Data and Analytics
+  * Conducted extensive data analysis using advanced tools such as SQL, Excel, Python, and Tableau to 
+identify valuable insights, trends, and patterns in large datasets 
+  * Designed and implemented interactive data visualizations to effectively communicate findings and 
+support data-driven decision making
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* April 2021 - June 2021: Research Executive
+  * Worked collaboratively with cross-functional teams to develop and implement data-driven solutions to 
+business problems in a Scrum environment, following Agile methodologyb
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * Pandas, NumPy, MatPlotLib, Seaborn, scikit-learn, SciPy, TensorFlow, Keras  
+* SQL 
+* Tableau
+* PowerBI
+* Statistics
+* Machine learning
+* Predictive Modeling
+* Natural Language Processing 
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
