@@ -1,6 +1,6 @@
 ---
 title: " Predictive-Maintainance Forecasting (RUL)"
-excerpt: "Predicting the remaining usefull life of the machine"
+excerpt: "Predicting the remaining useful life of the machine"
 collection: portfolio
 ---
 
