@@ -9,7 +9,7 @@ redirect_from:
 
 Data Scientist specializing in analytics-driven strategies to enhance product performance and drive business growth.
 
-ABOUT ME 
+About Me 
 ======
 Naturally curious and adaptable, I thrive on tackling new challenges and continuously seeking opportunities to expand my knowledge and share insights.
 
