@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dhana Sekar"
+#  name             : "Dhana Sekar"
   avatar           : "my_pic.jfif"
   bio              : "Data Scientist"
   location         : "Bangalore, India"
