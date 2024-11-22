@@ -22,6 +22,7 @@ Model Validation:
 **Key Skills**:
 
   **Tools & Technologies** : Python, Machine Learning, Data Mining, Data Visualization, Predictive Modeling, Marketing Analytics.
+  
   **Techniques** : Ad Targeting, Model Evaluation, Feature Engineering, Data Analysis
 
 _Explore My Project Work Here_: [Targeting users Web App](https://skyads-elevating-aviation-marketing-through-data-driven-target.streamlit.app/)
