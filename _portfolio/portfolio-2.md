@@ -4,9 +4,24 @@ excerpt: "A Strategic shift towards data-driven advertising for Aviation Industr
 collection: portfolio
 ---
 
-* This project showcases a strategic shift towards data-driven digital advertising within the aviation industry. By leveraging machine learning, 
-I developed targeted models for both laptop and mobile users, ensuring precision in advertising spend allocation. The implementation enables the 
-company to optimize campaign effectiveness and achieve higher returns on investment.
+**Objective** : Shift towards data-driven digital advertising for the aviation industry, optimizing ad spend and improving ROI through targeted models.
 
+**Approach**:
 
-_Explore the project here_: [Targeting users Web App](https://skyads-elevating-aviation-marketing-through-data-driven-target.streamlit.app/)
+  * **Data Collection** : Collected user interaction data from both mobile and laptop users to understand browsing patterns and ad effectiveness.
+  * **Model Development** : Developed targeted predictive models using machine learning to allocate ad spend efficiently. The models differentiate between laptop and mobile user behavior to ensure precise targeting.
+  * Implementation** : The models were integrated into the company's advertising strategy to maximize campaign efficiency and ROI.
+  * **Future Steps** : Ongoing improvement of model performance using additional user data and adjusting ad targeting strategies.
+
+**Analysis** :Performed Exploratory Data Analysis (EDA) to understand user behavior patterns.
+Applied machine learning models for segmentation and ad targeting, enhancing targeting accuracy.
+Model Validation:
+
+  Validated the models using real-time campaign performance metrics to refine targeting strategies.
+
+**Key Skills**:
+
+  **Tools & Technologies** : Python, Machine Learning, Data Mining, Data Visualization, Predictive Modeling, Marketing Analytics.
+  **Techniques** : Ad Targeting, Model Evaluation, Feature Engineering, Data Analysis
+
+_Explore My Project Work Here_: [Targeting users Web App](https://skyads-elevating-aviation-marketing-through-data-driven-target.streamlit.app/)
