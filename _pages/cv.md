@@ -11,31 +11,29 @@ redirect_from:
 
 Education
 ======
-* MBA in Data science and Analytics, Jain University, 2024
+* MBA in Data science and Analytics, Jain University
   * Coursework: Advanced Machine Learning, Programming Machine Learning Applications, Recommender Systems, Neural Networks & Deep Learning, Time Series Analysis, Advanced Data Analysis, Data Analysis and Regression (Linear/Logistic), Databases for Analytics (Querying), Data Visualization
    
-*  BCA in Computer Science and Applicaitons,in Madras University, 2021
+*  BCA in Computer Science and Applicaitons, Madras University
   * Coursework: SQL, Python, JAVA, R
 
 
 Work experience
 ======
-* July 2021 - Present: Senior system associate in Data and Analytics
+* July 2021 - Present: Data Analyst, Infosys
   * Conducted extensive data analysis using advanced tools such as SQL, Excel, Python, and Tableau to 
 identify valuable insights, trends, and patterns in large datasets 
   * Designed and implemented interactive data visualizations to effectively communicate findings and 
 support data-driven decision making
 
-* April 2021 - June 2021: Research Executive
-  * Worked collaboratively with cross-functional teams to develop and implement data-driven solutions to 
-business problems in a Scrum environment, following Agile methodologyb
 
   
 Skills
 ======
+* Excel
+* SQL
 * Python
-  * Pandas, NumPy, MatPlotLib, Seaborn, scikit-learn, SciPy, TensorFlow, Keras  
-* SQL 
+  * Pandas, NumPy, MatPlotLib, Seaborn, scikit-learn, SciPy
 * Tableau
 * PowerBI
 * Statistics
