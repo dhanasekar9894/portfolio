@@ -11,11 +11,9 @@ Data Scientist specializing in analytics-driven strategies to enhance product pe
 
 About Me 
 ======
-Naturally curious and adaptable, I thrive on tackling new challenges and continuously seeking opportunities to expand my knowledge and share insights.
+A Data Professional with 3.3 years of experience, specializing in analytics-driven strategies to enhance product performance and drive business growth. Throughout my tenure at Infosys, I've tackled a variety of complex datasets, developed predictive models, and provided actionable insights to influence business decisions.
 
-With nearly 3 years of experience, I’ve honed my skills in data analytics, particularly during my tenure at Infosys, where I worked on a variety of projects. I’ve gained valuable experience in analyzing complex datasets, developing predictive models, and deriving actionable insights to drive business decisions.
-
-I find joy in leveraging data to solve complex problems and drive actionable insights. With a dedication to real-time learning and problem-solving, I’ve honed my skills in advanced data analytics and science concepts, using them to address pressing business challenges.
+I thrive on challenges and continuously seek opportunities to expand my knowledge. With a passion for leveraging data analysis and visualization, I work to drive informed decision-making and strategic planning through predictive modeling.
 
 _"Leveraging data analysis and visualization to inform and enhance business decisions. Proficient in predictive modeling to anticipate future trends and drive strategic planning"_
 
