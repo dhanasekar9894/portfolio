@@ -1,3 +1,8 @@
+---
+title: "Customer & Sales Dashboard (Tableau)"
+excerpt: "Sales Insight and Customer Interactive Dashboard for Analysis using Tableau"
+collection: portfolio
+---
 
 **Customer & Sales Dashboard (Tableau)**
 
