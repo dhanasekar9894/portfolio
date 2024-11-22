@@ -27,4 +27,4 @@ Existing methods were inefficient in providing real-time insights, leading to mi
 
 **Tools & Technologies** : Tableau, Data Visualization, KPI Dashboard, Sales Analytics, Customer Analytics, Trend Analysis, Data Integration.
 
-_Explore My Work Here_: 
+_Explore My Work Here_: https://public.tableau.com/views/SalesCustomerInteractiveDashboard/alesDashboard?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
